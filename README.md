@@ -41,7 +41,7 @@ The project is organized as follows:
 - Used the `scikit-learn` library for machine learning models.
 
 ## Contact
-For questions or feedback, contact me at adefemioadeyanju101@hotmail.com.
+For questions or feedback, contact me at adefemiadeyanju101@hotmail.com.
 
 
 
