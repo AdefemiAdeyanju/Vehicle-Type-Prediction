@@ -31,7 +31,7 @@ The project is organized as follows:
 - Trained a Random Forest Classifier and Gradient Boosting Classifier.
 
 ## Evaluation Metrics
-- Evaluated models using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE).
+- Evaluated models using Mean Absolute Error (MAE).
 
 ## Results and Visualizations
 ![Results](images/results.png)
