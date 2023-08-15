@@ -1,5 +1,7 @@
 # Vehicle-Type-Prediction
+
 ![Vehicle-Type-Prediction](supercar.jpg)
+
 Predicting Vehicle Type Prediction using machine learning models.
 
 ## Table of Contents
