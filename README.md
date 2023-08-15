@@ -1,5 +1,5 @@
 # Vehicle-Type-Prediction
-
+![Vehicle-Type-Prediction](supercar.jpg)
 Predicting Vehicle Type Prediction using machine learning models.
 
 ## Table of Contents
@@ -34,7 +34,7 @@ The project is organized as follows:
 - Evaluated models using Mean Absolute Error (MAE).
 
 ## Results and Visualizations
-![Results](images/results.png)
+![Results](feature.jpg)
 - Visualized feature importances for the Gradient Boosting Model.
 
 ## Acknowledgments
